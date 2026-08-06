@@ -1,7 +1,7 @@
 # 👨🏾‍💻 Miguel Souza
 
 
-Me chamo Miguel Souza, tenho 17 anos e sou natural de São Paulo. Atualmente, estou cursando ciência da Computação na UniFECAF. Sou apaixonado por tecnologia e tenho um interesse enorme por aprender sempre mais.
+Me chamo Miguel Souza, tenho 19 anos e sou natural de São Paulo. Atualmente, estou cursando ciência da Computação na UniFECAF. Sou apaixonado por tecnologia e tenho um interesse enorme por aprender sempre mais.
 
 <p align="left">
     </a> 
