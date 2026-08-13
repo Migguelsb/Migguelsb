@@ -68,15 +68,7 @@ Me chamo Miguel Souza, tenho 19 anos e sou natural de São Paulo. Atualmente, es
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Migguelsb&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+<p align="center"> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" alt="Pikachu" width="180"> </p> 
   />
 
 
