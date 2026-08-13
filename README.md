@@ -69,6 +69,6 @@ Me chamo Miguel Souza, tenho 19 anos e sou natural de São Paulo. Atualmente, es
 <br/>
 
 <p align="center"> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" alt="Pikachu" width="180"> </p> 
-  />
+  
 
 
